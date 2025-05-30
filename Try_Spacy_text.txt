@@ -1,1 +1,11 @@
 The quick brown fox jumps over the lazy dog.  The dog barks loudly.  It's a sunny day today.  What a great day to go for a walk!
+
+----Git---
+
+To commit the changes first 
+
+type in cmd 
+
+-> git add .
+-> git commit -m "Mention the changes you have done In double quotes"
+-> git push
