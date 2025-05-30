@@ -2,7 +2,7 @@ The quick brown fox jumps over the lazy dog.  The dog barks loudly.  It's a sunn
 
 ----Git---
 
-To commit the changes first 
+To commit the changes first:
 
 type in cmd 
 
