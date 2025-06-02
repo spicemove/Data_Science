@@ -9,3 +9,10 @@ type in cmd
 -> git add .
 -> git commit -m "Mention the changes you have done In double quotes"
 -> git push
+
+---------Activate venv-----------
+
+
+type in cmd 
+
+myvenv\Scripts\activate
